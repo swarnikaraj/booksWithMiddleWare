@@ -1,0 +1,24 @@
+{
+  "name": "booksWithMiddleWare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server":"nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swarnikaraj/booksWithMiddleWare.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swarnikaraj/booksWithMiddleWare/issues"
+  },
+  "homepage": "https://github.com/swarnikaraj/booksWithMiddleWare#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
